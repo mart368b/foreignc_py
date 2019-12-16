@@ -8,7 +8,7 @@ setup(
   author = 'Martin Pinholt',
   author_email = 'mapi@itu.dk',
   url = 'https://github.com/mart368b/foreignc_py',
-  download_url = '???',    # I explain this later on
+  download_url = 'https://github.com/mart368b/foreignc_py/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['ffi', 'rust', 'foreignc'],
   install_requires=[],
   classifiers=[
